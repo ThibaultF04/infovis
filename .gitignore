@@ -1,0 +1,6 @@
+# Fichiers générés par Script.py
+country_cache.json
+opponents_by_country.csv
+
+# Python
+__pycache__/
